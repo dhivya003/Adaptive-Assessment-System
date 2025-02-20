@@ -16,9 +16,7 @@ An AI-powered **personalized learning platform** that dynamically adjusts questi
 
 ## 📂 Resources  
 📑 **Base Paper:** IEEE Paper  
-📊 **Dataset:** Indian Sign Language Dataset  
 🎥 **Demo Video:** [Watch Here](https://drive.google.com/drive/folders/18Lw1b6vPrdRR-pKockl3DGMMKRQjHF67?usp=sharing)  
-💻 **GitHub Repository:** [View Code](https://github.com/dhivya003/algorithmic_avengers.git)  
 
 ## 👥 Contributors  
 🚀 **Dhivya S**  
