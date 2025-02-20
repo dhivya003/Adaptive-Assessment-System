@@ -15,7 +15,7 @@ An AI-powered **personalized learning platform** that dynamically adjusts questi
 🔹 **AI & Data Analysis:** Adaptive learning algorithms  
 
 ## 📂 Resources  
-📑 **Base Paper:** IEEE Paper  
+📑 **Base Paper:** [ScienceDirect Paper](https://www.sciencedirect.com/science/article/pii/S2666920X22000054?ref=pdf_download&fr=RR-2&rr=914ea14f2c309379)  
 🎥 **Demo Video:** [Watch Here](https://drive.google.com/drive/folders/18Lw1b6vPrdRR-pKockl3DGMMKRQjHF67?usp=sharing)  
 
 ## 👥 Contributors  
